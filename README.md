@@ -21,7 +21,9 @@ public class MyClass {
 ```
 
 2) Select **Product > Scheme > Edit scheme...** menu item
+
 3) Set **Release** in Build COnfiguration
+
 4) Build the project.
 
 ## Expected behavior
