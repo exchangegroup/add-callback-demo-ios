@@ -36,9 +36,11 @@ Build results in the following error.
 
 > Command failed due to signal: Abort trap: 6
 
+...
+
 > Assertion failed: (PAI2->use_empty() && "Should not have any uses"), function foldInverseReabstractionThunks, file /Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-700.0.52.2/src/swift/lib/SILPasses/SILCombinerVisitors.cpp, line 549.
 
-
+...
 
 > 1.  While running SILFunctionTransform "SIL Combine" on SILFunction "@_TFC11AddCallback7MyClass4doItfS0_FGSqFT_T__T_".
 
