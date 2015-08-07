@@ -4,7 +4,7 @@ This is a demo app that shows an error in compilation in Xcode 7 beta 5. The err
 
 ## How to reproduce
 
-1) Add the following code to your project
+1) Add the following code to your project:
 
 ```Swift
 public class MyClass {
