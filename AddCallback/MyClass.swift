@@ -1,9 +1,9 @@
 import UIKit
 
-public class MyClass {
+class MyClass {
   private var callbacks: [()->()] = []
   
-  public func doIt(callback: (()->())?) {
+  func doIt(callback: (()->())?) {
     if let callback = callback {
       callbacks.append(callback)
     }
