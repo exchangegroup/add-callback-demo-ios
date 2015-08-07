@@ -44,6 +44,6 @@ Build results in the following error.
 
 > 1.  While running SILFunctionTransform "SIL Combine" on SILFunction "@_TFC11AddCallback7MyClass4doItfS0_FGSqFT_T__T_".
 
-## Remote this repository in Jan 2016
+## Remove this repository in Jan 2016
 
 Let's hope it will be fixed by then.
